@@ -5,7 +5,7 @@ public class ExceptionConcept {
 		ExceptionConcept e1=new ExceptionConcept();
 		try {
 			e1.divide();
-
+//fhglkk;l;//
 		} catch (Exception e) {
 			// TODO: handle exception
 			e.printStackTrace();
